@@ -1,6 +1,7 @@
 {
   "name": "react-native-proximity",
   "version": "3.0.2",
+  "private": true,
   "description": "Detect proximity on iOS and Android",
   "main": "index.js",
   "scripts": {
